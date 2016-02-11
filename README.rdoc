@@ -2,6 +2,10 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
+The main aim of this application is to show how the Bootstrap works and the benfits of  working with boothstrap. 
+Refer the gems used to get a clear idea of what exactly involves in this application .
+Instead of running my application with various commands i have used foreman gem in this. 
+use "foreman start" to run the application. 
 
 Things you may want to cover:
 
